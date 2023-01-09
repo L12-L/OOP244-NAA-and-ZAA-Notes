@@ -1,1 +1,55 @@
 # OOP244 NAA and ZAA Notes
+
+
+## Workshop Zero
+As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
+
+This is done using what I call Workshop Zero; through a series of videos instructing you on how to set up your computer to use GitHub effectively for collaboration.
+ 
+We will start this together in the first lab (make sure you attend and bring your computers) but the detailed instructions of the workshop will be announced shortly.
+
+Here are the Videos. The due date for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Monday Jan 16th.
+
+https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
+
+### Mac Users and Workshop Zero
+Workshop Zero is designed for windows, as you are required to learn and work with visual studio as an advanced IDE.<br />
+For Mac, either you have to do all the git commands through command line, or you need to install a Virtual Machine and then do the lab:
+- [Install Fusion Vmware](https://www.vmware.com/ca/products/fusion/fusion-evaluation.html) Fusion is free for students; click on ["Register Lisence for Personal Use"](https://customerconnect.vmware.com/web/vmware/evalcenter?p=fusion-player-personal) 
+- [Install Windows 10 on Fusion VM](https://www.groovypost.com/howto/create-custom-virtual-machine-vmware-fusion/)
+
+## 144100 review session  for 244200 students
+The review session on IPC144/BTP100 was held on monday may 13th at 10 AM<br />
+This session was open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
+
+### 144/100 Review Recordings
+
+- [Part 1 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652708621059/capture/)
+- [Part 2 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652719820097/capture/)
+
+## Recordings of Previous (NAA and NBB) lecture Sessions
+I strongly suggest for students to review other section's recordings as well, if time permits...
+### NAA
+
+### ZAA
+# Office
+[![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
+
+# Fardad's Schedule
+| Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
+|--------|-------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+| 1      | 8:00-8:50   |     |     |     |      |    |
+| 2      | 8:55-9:45   |     |     |     |      |     |
+| 3      | 9:50-10:40  |     |   OOP244 NAA <br /> Lecture: A3504   |     |     |        |
+| 4      | 10:45-11:35 |     |  OOP244 NAA <br /> Lecture: A3504  |     |    |      |
+| 5      | 11:40-12:30 |   |  IPC144 NBB <br /> Lecture: A1431A   |     |     |  OOP244 NAAL <br /> Lec/Lab: A3512  |
+| 6      | 12:35-13:25 |  OOP244 ZAA <br /> Lecture: M570   |  IPC144N BB <br /> Lecture: A1431A    |      |      |   OOP244 NAAL <br /> Lec/Lab: A3512     |
+| 7      | 13:30-14:20 |  OOP244 ZAA <br /> Lecture: M570   |     |       |  OOP244 ZAAL <br /> Lec/Lab: M664    |      |
+| 8      | 14:25-15:15 |     |       |     |  OOP244 ZAAL <br /> Lec/Lab: M664  |      |
+| 9      | 15:20-16:10 |     |   [Office](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)   |     |      |    IPC144 NBB <br /> Lec/lab: A1508    |
+| 10     | 16:15-17:05 |     |  [Office](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)   |    |      |   IPC144 NBB <br /> Lec/lab: A1508   |
+| 11     | 17:10-18:00 |       |     |     |      |      |
+| 12     | 18:05-18:55 |       |     |   |      |      |
+
+
+
