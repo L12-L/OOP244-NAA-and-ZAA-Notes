@@ -26,6 +26,7 @@ This session was open to all the students who needed to review the 144/100 conce
 
 - [Part 1 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652708621059/capture/)
 - [Part 2 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652719820097/capture/)
+- [Code](https://github.com/Seneca-244200/OOP244-NAA-and-ZAA-Notes/tree/main/144100Review)
 
 ## Recordings of Previous (NAA and NBB) lecture Sessions
 I strongly suggest for students to review other section's recordings as well, if time permits...
