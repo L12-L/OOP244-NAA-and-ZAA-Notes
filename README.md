@@ -33,7 +33,7 @@ I strongly suggest for students to review other section's recordings as well, if
 ### NAA
 - [01 - Jan 10 Welcome and OO intro](https://youtu.be/VODzuPAUFDU)
 - [02 - Jan 13 Workshop Zero](https://youtu.be/SfPAlLVOFh8)
-- [01 - Jan 17 Function overloading, Defulat arg. values, references, cin/cout](https://youtu.be/R9M5c0FPIqM) 
+- [03 - Jan 17 Function overloading, Defulat arg. values, references, cin/cout](https://youtu.be/R9M5c0FPIqM) 
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
