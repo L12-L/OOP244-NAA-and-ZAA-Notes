@@ -38,6 +38,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
 - [03 - Jan 16, Function overloading, Defulat arg. values, references, cin/cout](https://youtu.be/G1UDVxcOhEg)
+- [04 - Jan 19, Pointers review, Dynamic Memory Allocation](https://youtu.be/DJ0QLQtv4mI)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
