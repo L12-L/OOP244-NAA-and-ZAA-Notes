@@ -14,6 +14,9 @@ namespace sdds {
    }
    void Student::set(const char* name,
          unsigned int stno) {
+      if (m_name != nullptr) {
+         deallocate();
+      }
       m_name = new char[strlen(name)+1];
       strcpy(m_name, name);
       m_stno = stno;
@@ -30,6 +33,7 @@ namespace sdds {
    }
    void Student::deallocate(){
       delete[] m_name;
+      m_name = nullptr; // flag it to empty
    }
    void Student::set() {
       unsigned stno;
