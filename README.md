@@ -35,6 +35,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [02 - Jan 13 Workshop Zero](https://youtu.be/SfPAlLVOFh8)
 - [03 - Jan 17 Function overloading, Defulat arg. values, references, cin/cout](https://youtu.be/R9M5c0FPIqM) 
 - [04 - Jan 20, Pointers review, Dynamic Memory Allocation](https://youtu.be/DHpcdos-n2I)
+- [05 - Jan 24 Encapsulation, Methods, Privacy, DMA Default Constructor, Destructor](https://youtu.be/bf_3zcudSXk)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
@@ -43,7 +44,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - 05 - Jan 23 Encapsulation, Methods, Privacy, DMA Default Constructor, Destructor
    - [Part 1 - Coding](https://youtu.be/MgFAef9XLZk)
    - [Part 2 - Slides (to do and don'ts)](https://youtu.be/8p8fi3qjh88) 
-
+- [06 - jan 26 - DMA and cin and cout formating](https://youtu.be/xgEe2nSMSm8)
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
