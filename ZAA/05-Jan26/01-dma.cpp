@@ -1,5 +1,5 @@
 #include <iostream>
- 
+
 using namespace std;
 int main() {
    int cnt{};
@@ -22,6 +22,5 @@ int main() {
       cout << endl;
    }
    delete[] num;
-   delete cnt;
    return 0;
 }
