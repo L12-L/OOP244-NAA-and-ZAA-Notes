@@ -36,6 +36,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [03 - Jan 17 Function overloading, Defulat arg. values, references, cin/cout](https://youtu.be/R9M5c0FPIqM) 
 - [04 - Jan 20, Pointers review, Dynamic Memory Allocation](https://youtu.be/DHpcdos-n2I)
 - [05 - Jan 24 Encapsulation, Methods, Privacy, DMA Default Constructor, Destructor](https://youtu.be/bf_3zcudSXk)
+- [06 - Jan 27 DMA, cin and cout formatting](https://youtu.be/pX9H-hA4gQ0)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
