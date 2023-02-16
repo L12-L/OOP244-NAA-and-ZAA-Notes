@@ -40,7 +40,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [07 - Jan 31 Constructors and foolproof data entry](https://youtu.be/3-GcmdPdlxY)
 - [08 - Feb 07 Operator Overloading](https://youtu.be/dPGvLm18X2c)
 - [09 - Feb 10 Operator Overloading](https://youtu.be/sVsWwxFpAZk)
-- [09 - Feb 10 Rule of three, Files](https://youtu.be/ZhFzm8g54c0)
+- [10 - Feb 10 Rule of three, Files](https://youtu.be/ZhFzm8g54c0)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
@@ -53,7 +53,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [07 - Jan 30 - Constructors and foolproof data entry](https://youtu.be/ijeTDVgzfK8)
 - [08 - Feb 06 - Operator Overloading](https://youtu.be/iv9K5O0X5bI)
 - [09 - Feb 09 - Operator Overloading](https://youtu.be/R2fyqlP9VXg)
-- [09 - Feb 09 - Rule of three, Files](https://youtu.be/th-rlD9CAL4)
+- [10 - Feb 09 - Rule of three, Files](https://youtu.be/th-rlD9CAL4)
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
