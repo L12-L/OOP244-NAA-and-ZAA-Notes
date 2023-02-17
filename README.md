@@ -41,6 +41,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [08 - Feb 07 Operator Overloading](https://youtu.be/dPGvLm18X2c)
 - [09 - Feb 10 Operator Overloading](https://youtu.be/sVsWwxFpAZk)
 - [10 - Feb 10 Rule of three, Files](https://youtu.be/ZhFzm8g54c0)
+- [11 - Feb 17 Freinds](https://youtu.be/u4ZioDkkC2g)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
