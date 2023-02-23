@@ -39,6 +39,9 @@ I strongly suggest for students to review other section's recordings as well, if
 - [06 - Jan 27 DMA, cin and cout formatting](https://youtu.be/pX9H-hA4gQ0)
 - [07 - Jan 31 Constructors and foolproof data entry](https://youtu.be/3-GcmdPdlxY)
 - [08 - Feb 07 Operator Overloading](https://youtu.be/dPGvLm18X2c)
+- [09 - Feb 10 Operator Overloading](https://youtu.be/sVsWwxFpAZk)
+- [10 - Feb 14 Rule of three, Files](https://youtu.be/ZhFzm8g54c0)
+- [11 - Feb 17 Freinds](https://youtu.be/u4ZioDkkC2g)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
@@ -50,6 +53,9 @@ I strongly suggest for students to review other section's recordings as well, if
 - [06 - jan 26 - DMA and cin and cout formating](https://youtu.be/xgEe2nSMSm8)
 - [07 - Jan 30 - Constructors and foolproof data entry](https://youtu.be/ijeTDVgzfK8)
 - [08 - Feb 06 - Operator Overloading](https://youtu.be/iv9K5O0X5bI)
+- [09 - Feb 09 - Operator Overloading](https://youtu.be/R2fyqlP9VXg)
+- [10 - Feb 13 - Rule of three, Files](https://youtu.be/th-rlD9CAL4)
+- [11 - Feb 17 Freinds (NAA recording, but watch please)](https://youtu.be/u4ZioDkkC2g)
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
