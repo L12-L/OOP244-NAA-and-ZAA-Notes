@@ -42,7 +42,10 @@ I strongly suggest for students to review other section's recordings as well, if
 - [09 - Feb 10 Operator Overloading](https://youtu.be/sVsWwxFpAZk)
 - [10 - Feb 14 Rule of three, Files](https://youtu.be/ZhFzm8g54c0)
 - [11 - Feb 17 Freinds](https://youtu.be/u4ZioDkkC2g)
-- [12 - Feb 24rd - Stages of initalization and more operator overloading](https://youtu.be/czkzmeuR1p0)
+- [12 - Feb 24 - Stages of initalization and more operator overloading](https://youtu.be/czkzmeuR1p0)
+- [13 - Mar 07 - Project MS1 Overview](https://youtu.be/2OWD-szjMIw)
+- [14 - Mar 07 - Derived classes and Virtuals](https://youtu.be/B707uj-Rvqs)
+
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
@@ -57,7 +60,10 @@ I strongly suggest for students to review other section's recordings as well, if
 - [09 - Feb 09 - Operator Overloading](https://youtu.be/R2fyqlP9VXg)
 - [10 - Feb 13 - Rule of three, Files](https://youtu.be/th-rlD9CAL4)
 - [11 - Feb 17 Freinds (NAA recording, but watch please)](https://youtu.be/u4ZioDkkC2g)
-- [12 - Feb 23rd - Stages of initalization and more operator overloading](https://youtu.be/UuXwSPgwvrA)
+- [12 - Feb 23 - Stages of initalization and more operator overloading](https://youtu.be/UuXwSPgwvrA)
+- [13 - Mar 6 - MS1 overview](https://youtu.be/3I-uAGcbQX8)
+- [14 - Mar 6 - Derived classes and virtuality](https://youtu.be/pcP8V5g1ljQ)
+
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
