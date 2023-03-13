@@ -63,6 +63,8 @@ I strongly suggest for students to review other section's recordings as well, if
 - [12 - Feb 23 - Stages of initalization and more operator overloading](https://youtu.be/UuXwSPgwvrA)
 - [13 - Mar 6 - MS1 overview](https://youtu.be/3I-uAGcbQX8)
 - [14 - Mar 6 - Derived classes and virtuality](https://youtu.be/pcP8V5g1ljQ)
+- [15 - Mar 13 - Project MS2 overview](https://youtu.be/A9a4i5TChAc)
+- 16 - Mar 13 - Abstract Base classes, Interfaces, Virtuals [Part 1](https://youtu.be/qXj1kZh75vc) - [Part 2](https://youtu.be/jWrqwrFQkgI)
 
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
