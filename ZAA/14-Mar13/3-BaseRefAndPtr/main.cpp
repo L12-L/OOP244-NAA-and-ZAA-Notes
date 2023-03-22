@@ -7,6 +7,10 @@ int main(){
   Cat p("Pepper");
   Animal* ap = new Cat("Tom");
   Animal& ar = p;
+  cout << "------------Using Cat reference: " << endl;
+  p.act();
+  p.move();
+  p.sound();
   cout << "------------Using Animal reference: " << endl;
   ar.act();
   ar.move();

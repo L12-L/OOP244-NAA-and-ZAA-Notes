@@ -17,6 +17,8 @@ int main(){
     ap[i]->sound();
   }
   cout << "---------------------End of main" << endl;
-  for (int i = 0; i < 3; delete ap[i++]);
+  for(int i = 0; i < 3; i++) {
+     delete ap[i];
+  }
   return 0;
 }
