@@ -45,6 +45,9 @@ I strongly suggest for students to review other section's recordings as well, if
 - [12 - Feb 24 - Stages of initalization and more operator overloading](https://youtu.be/czkzmeuR1p0)
 - [13 - Mar 07 - Project MS1 Overview](https://youtu.be/2OWD-szjMIw)
 - [14 - Mar 07 - Derived classes and Virtuals](https://youtu.be/B707uj-Rvqs)
+- [15 - Mar 14 - Pure Virtuals and interfaces](https://youtu.be/HU476JvpvJo)
+- [16 - Mar 21 - Code submission for online tests in lab](https://youtu.be/v0uPwk0ITtE)
+- [17 - Mar 21 - Milestone 3 Overview](https://youtu.be/5oL2RdYeWuo)
 
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
@@ -65,7 +68,8 @@ I strongly suggest for students to review other section's recordings as well, if
 - [14 - Mar 6 - Derived classes and virtuality](https://youtu.be/pcP8V5g1ljQ)
 - [15 - Mar 13 - Project MS2 overview](https://youtu.be/A9a4i5TChAc)
 - 16 - Mar 13 - Abstract Base classes, Interfaces, Virtuals [Part 1](https://youtu.be/qXj1kZh75vc) - [Part 2](https://youtu.be/jWrqwrFQkgI)
-
+- [17 - Mar 20 - How to do coding submission for online tests in the lab.](https://youtu.be/dPx9pzqLdZo)
+- [18 - Mar 20 - Derived classes with resource](https://youtu.be/xILuwGSxuu0)
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
