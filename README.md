@@ -48,7 +48,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [15 - Mar 14 - Pure Virtuals and interfaces](https://youtu.be/HU476JvpvJo)
 - [16 - Mar 21 - Code submission for online tests in lab](https://youtu.be/v0uPwk0ITtE)
 - [17 - Mar 21 - Milestone 3 Overview](https://youtu.be/5oL2RdYeWuo)
-
+- [18 - Mar 21 - Derived classes with resources](https://youtu.be/fovR5GRMca4)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
