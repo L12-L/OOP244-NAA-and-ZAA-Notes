@@ -8,9 +8,9 @@ namespace sdds {
       const char* name()const;
       void name(const char* value);
       void act();
-       void move();
-       void sound();
-       ~Animal();
+      void move();
+      void sound();
+      ~Animal();
    };
    extern bool debug;  
 }

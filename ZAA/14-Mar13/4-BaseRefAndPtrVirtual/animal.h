@@ -1,5 +1,11 @@
 #ifndef SDDS_ANIMAL_H__
 #define SDDS_ANIMAL_H__
+/*
+Virtuals are only active if
+  child is pointed to 
+  or refered to as parent
+
+*/
 namespace sdds {
    class Animal {
       char m_name[41];
