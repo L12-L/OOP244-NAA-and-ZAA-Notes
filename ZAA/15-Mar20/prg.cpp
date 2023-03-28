@@ -17,6 +17,7 @@ public:
       cout << "Base assign" << endl;
       return *this;
    }
+
    virtual ~Base( ) {
       cout << "Del Base "<< endl;
    }
@@ -30,17 +31,22 @@ ostream& operator<<( ostream& out, const Base& B ) {
 class Derived : public Base {
    float m_data;
 public:
-   Derived( float data = 2.2 ) :Base( int( data ) ), m_data{ data } {
+   Derived( float data = 2.2 ) :Base( +( data ) ), m_data{ data } {
       cout << "   Def Der " << endl;
    }
    Derived( const Derived& D ):Base(D) {
       m_data = D.m_data;
    }
+   Derived& operator=( const Derived& D ) {
+      Base::operator=( D );
+      m_data = D.m_data;
+      return *this;
+   }
    ostream& print( ostream& out )const {
       Base::print( out );
       return out << "D(" << m_data << ")";
    }
-   ~Derived( ) {
+   virtual ~Derived( ) {
       cout << "   Del Der " << endl;
    }
 };
