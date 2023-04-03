@@ -50,6 +50,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [17 - Mar 21 - Milestone 3 Overview](https://youtu.be/5oL2RdYeWuo)
 - [18 - Mar 21 - Derived classes with resources](https://youtu.be/fovR5GRMca4)
 - [19 - Milestone 4 Overview](https://youtu.be/urtlxJHtEC8)
+- [20 - Milestone 5 Overview](https://youtu.be/E_CRdXMSgTE)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
@@ -72,6 +73,8 @@ I strongly suggest for students to review other section's recordings as well, if
 - [17 - Mar 20 - How to do coding submission for online tests in the lab.](https://youtu.be/dPx9pzqLdZo)
 - [18 - Mar 20 - Derived classes with resource](https://youtu.be/xILuwGSxuu0)
 - [19 - Milestone 4 Overview](https://youtu.be/urtlxJHtEC8)
+- [20 - Milestone 5 Overview](https://youtu.be/E_CRdXMSgTE)
+
 # Office
 [![Fardad Office](images/244Office.png)](https://teams.microsoft.com/l/channel/19%3aVPwdlcFX6UVD-3Rm_mrQt3qjO_lBKOEbisgwKSFK0Ls1%40thread.tacv2/General?groupId=a0cd7d51-8588-4fab-9ae0-7e08821c232b&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
