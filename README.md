@@ -51,6 +51,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [18 - Mar 21 - Derived classes with resources](https://youtu.be/fovR5GRMca4)
 - [19 - Milestone 4 Overview](https://youtu.be/urtlxJHtEC8)
 - [20 - Milestone 5 Overview](https://youtu.be/E_CRdXMSgTE)
+- [21 - Mar 28 - Function Templates](https://youtu.be/XSgJ-DzTuc0)
 ### ZAA
 - [01 - Jan 09 Welcome and OO intro](https://youtu.be/k2-i_HTruE4)
 - [02 - Jan 12 Workshop Zero](https://youtu.be/tX8yihHl9dI)
